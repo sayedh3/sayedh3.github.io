@@ -1,0 +1,87 @@
+.homepage {
+    text-align: center;
+    font-family: jacques;
+    color: white;
+    margin-top: 15%;
+}
+.bg {
+    background-image: url("https://copcp.org/wp-content/uploads/2022/01/about-768x432.jpeg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.about {
+    text-align: center;
+    font-family:
+}
+h1 {
+    text-decoration: underline;
+    font-family: equinox;
+}
+#about1 {
+    width: 500px;
+    margin: auto;
+}
+#about2 {
+    width: 500px;
+    margin: auto;
+}
+#about3 {
+    width: 500px;
+    margin: auto;
+}
+#gallery1 {
+    width: 400px;
+}
+#gallery2 {
+    width: 400px;
+}
+#gallery3 {
+    width: 400px;
+}
+#gallery4 {
+    width: 400px;
+}
+#gallery5 {
+    width: 400px;
+}
+#gallery6 {
+    width: 400px;
+}
+#gallery7 {
+    width: 400px;
+}
+#gallery8 {
+    width: 400px;
+}
+#gallery9 {
+    width: 400px;
+}
+#gallery10 {
+    width: 400px;
+}
+#gallery11 {
+    width: 400px;
+}
+#gallery12 {
+    width: 400px;
+}
+.details {
+    text-align: center;
+    font-family: jacques;
+    color: black;
+    margin-top: 2%;
+    text-shadow: 2px 2px 4px white;
+}
+.details1 {
+    background-image: url("https://d2g8igdw686xgo.cloudfront.net/62106591_164134854369652_r.jpeg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.map {
+    text-align: center;
+    margin-top: 8%
+}
